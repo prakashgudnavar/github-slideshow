@@ -2,5 +2,10 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+Adding another layour
+
+---
+layout: test
+title: "Building a Chess engine !"
+---
+
